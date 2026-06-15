@@ -132,7 +132,7 @@ https://subsidiary-outstanding-flush-starts.trycloudflare.com
 ### 📊 Συλλογή Δεδομένων - Σκέλος 1 (Γράμματα)
 
 ### 📹 Μεθοδολογία Συλλογής Δεδομένων
-!Greek-Sign-Language/Picture1.png
+![Περιγραφή της εικόνας](Picture1.png)
 
 #### 1. **Προσχεδιασμός**
 - Καθορισμός των ελληνικών νοημάτων και φράσεων
