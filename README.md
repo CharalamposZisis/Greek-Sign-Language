@@ -180,15 +180,10 @@ python train.py --dataset data/ --epochs 100
 
 ## 🤝 Συνεργάτες
 
-- **Χαράλαμπος Ζήσης** - Developer & ML Engineer
-- **tsamis** - Collaborator (invited)
-
----
-
-## 📜 Άδεια
-
-Αυτό το project είναι ανοικτού κώδικα και διατίθεται υπό την άδεια MIT.
-
+- **Χαράλαμπος Ζήσης** 
+- **Τσάμης Χρήστος** 
+- **Τάσος Σωτηρίου**
+  
 ---
 
 ## 🐛 Αναφορά Προβλημάτων
@@ -217,13 +212,4 @@ python train.py --dataset data/ --epochs 100
 - GitHub Issues: [Greek-Sign-Language Issues](https://github.com/CharalamposZisis/Greek-Sign-Language/issues)
 - Repository: [Greek-Sign-Language](https://github.com/CharalamposZisis/Greek-Sign-Language)
 
----
 
-## 🙏 Ευχαριστίες
-
-Ευχαριστούμε τους contributors και τη κοινότητα που στηρίζει αυτό το project!
-
----
-
-**Τελευταία ενημέρωση:** Ιούνιος 2026  
-**Κατάσταση:** ✅ Ενεργή Ανάπτυξη
